@@ -8,21 +8,13 @@ I'm passionate about Software Development , Full Stack development,so feel free 
 - DJANGO - REACT
 - Business Communication
 
-## 💼 Work Experience
-
-- [Company Name] - [Your Position] (Year Started - Year Ended)
-  - [Description of your role and responsibilities]
-  
-- [Company Name] - [Your Position] (Year Started - Year Ended)
-  - [Description of your role and responsibilities]
 
 ## 🔗 Connect with Me
 
 You can reach me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/akshaynayee1/)
+- [Email](mailto:akshaynayee1@gmail.com)
 
 ## 🚀 My GitHub Stats
 
