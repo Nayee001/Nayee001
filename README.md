@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akshaykumar Nayee 👋
 
 ![Your Name](https://your-profile-image-url.com)
 
