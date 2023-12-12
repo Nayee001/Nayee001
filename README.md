@@ -4,9 +4,9 @@ I'm passionate about [your interests], and I'm currently learning [what you're l
 
 ## 🌱 I'm Currently Learning
 
-- [Learning Topic 1]
-- [Learning Topic 2]
-- [Learning Topic 3]
+- AWS
+- DJANGO - REACT
+- Business Communication
 
 ## 💼 Work Experience
 
@@ -28,10 +28,5 @@ You can reach me on:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayee001&show_icons=true&theme=dark)](https://github.com/Nayee001)
 
-## 🌟 Fun Facts
-
-- [Fun Fact 1]
-- [Fun Fact 2]
-- [Fun Fact 3]
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. 😊
