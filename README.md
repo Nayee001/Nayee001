@@ -1,7 +1,5 @@
 # Hi there, I'm Akshaykumar Nayee 👋
 
-Akshaykumar Nayee
-
 I'm passionate about [your interests], and I'm currently learning [what you're learning]. I'm open to collaboration on [projects or areas of interest], so feel free to reach out if you'd like to work together.
 
 ## 🌱 I'm Currently Learning
