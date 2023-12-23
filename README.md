@@ -5,7 +5,7 @@ I'm passionate about Software Development , Full Stack development,so feel free 
 ## 🌱 I'm Currently Learning
 
 - AWS
-- DJANGO - REACT
+- Django - React
 - Business Communication
 
 
