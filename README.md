@@ -2,12 +2,6 @@
 
 I'm passionate about Software Development , Full Stack development,so feel free to reach out if you'd like to work together.
 
-## 🌱 I'm Currently Learning
-
-- AWS
-- Django - React
-- Business Communication
-
 
 ## 🔗 Connect with Me
 
