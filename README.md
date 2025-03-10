@@ -49,7 +49,6 @@
 ## 📊 GitHub Stats  
 
 [![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayee001&show_icons=true&theme=tokyonight)](https://github.com/Nayee001)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayee001&layout=compact&theme=tokyonight)](https://github.com/Nayee001)
 
 ---
 
