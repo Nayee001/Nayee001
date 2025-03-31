@@ -55,7 +55,7 @@
 ## 🚀 Projects & Contributions  
 
 🔹 **[Virtual Fault Current Limiter (VFCL)](https://github.com/Nayee001/vfcl_iot)** – IoT-based real-time fault detection & monitoring system.  
-🔹 **[IoT Dashboard](https://github.com/Nayee001/iotgui)** – IoT Device GUI for fault Monitoring, Using Python, MQTT, Raspberry pi
+🔹 **[IoT Dashboard](https://github.com/Nayee001/iotgui)** – IoT Device GUI for fault Monitoring, Using Python, MQTT, Raspberry pi.
 🔹 **[E-Commerce Platform](https://melolem.com/)** – Scalable multi-vendor e-commerce platform with Laravel & React.js.  
 
 Check out more projects in my **[GitHub Repositories](https://github.com/Nayee001?tab=repositories)!** 🚀  
